@@ -19,8 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99634546-4441-47b9-9706-d348fc5ac15a" name="Default Changelist" comment="тест">
-      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 1/ex1.py" afterDir="false" />
+    <list default="true" id="99634546-4441-47b9-9706-d348fc5ac15a" name="Default Changelist" comment="добавил Упражнение 1 Зед А Шоу">
+      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 2/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 3/ex 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 4/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 5/ex5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 6/ex6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,8 +54,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="ex1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex6">
+    <configuration name="ex 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,11 +63,95 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 1/ex1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 3/ex 3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learn-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 2/ex2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learn-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 4/ex4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learn-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 5" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 5/ex5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learn-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 6/ex6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex1" />
+        <item itemvalue="Python.ex6" />
+        <item itemvalue="Python.ex5" />
+        <item itemvalue="Python.ex4" />
+        <item itemvalue="Python.ex 3" />
+        <item itemvalue="Python.ex2" />
       </list>
     </recent_temporary>
   </component>
@@ -101,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596627492336</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="добавил Упражнение 1 Зед А Шоу">
+      <created>1596631073582</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596631073582</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,9 +217,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="тест" />
-    <option name="LAST_COMMIT_MESSAGE" value="тест" />
+    <MESSAGE value="добавил Упражнение 1 Зед А Шоу" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавил Упражнение 1 Зед А Шоу" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="735" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596630969042">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="735" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1596630969042" />
+    <state width="2539" height="266" key="GridCell.Tab.0.bottom" timestamp="1596643345644">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1596643345644" />
+    <state width="2539" height="266" key="GridCell.Tab.0.center" timestamp="1596643345643">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="266" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1596643345643" />
+    <state width="2539" height="266" key="GridCell.Tab.0.left" timestamp="1596643345643">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="266" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1596643345643" />
+    <state width="2539" height="266" key="GridCell.Tab.0.right" timestamp="1596643345644">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="266" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1596643345644" />
     <state x="782" y="345" key="SettingsEditor" timestamp="1596630959473">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -129,10 +249,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="498" height="398" key="SwitcherDM/0.0.2560.1400@0.0.2560.1400" timestamp="1596627074352" />
-    <state x="873" y="433" key="Vcs.Push.Dialog.v2" timestamp="1596627587623">
+    <state x="873" y="433" key="Vcs.Push.Dialog.v2" timestamp="1596631087259">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="873" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596627587623" />
+    <state x="873" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596631087259" />
     <state x="1098" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596627275672">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
