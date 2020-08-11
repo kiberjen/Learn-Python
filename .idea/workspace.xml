@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99634546-4441-47b9-9706-d348fc5ac15a" name="Default Changelist" comment="добавил Упражнение 1 Зед А Шоу">
-      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 2/ex2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 3/ex 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 4/ex4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 5/ex5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 6/ex6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 7/ex7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 8/ex8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Learn-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learn-Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +52,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.ex6">
+  <component name="RunManager" selected="Python.ex7">
     <configuration name="ex 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,27 +66,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 3/ex 3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learn-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 2/ex2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,13 +137,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learn-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 7/ex7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex7" />
         <item itemvalue="Python.ex6" />
         <item itemvalue="Python.ex5" />
         <item itemvalue="Python.ex4" />
         <item itemvalue="Python.ex 3" />
-        <item itemvalue="Python.ex2" />
       </list>
     </recent_temporary>
   </component>
@@ -225,22 +223,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="735" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1596630969042" />
-    <state width="2539" height="266" key="GridCell.Tab.0.bottom" timestamp="1596643345644">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="3803" height="1447" key="GridCell.Tab.0.bottom" timestamp="1597158693575">
+      <screen x="0" y="0" width="3840" height="2102" />
     </state>
     <state width="2539" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1596643345644" />
-    <state width="2539" height="266" key="GridCell.Tab.0.center" timestamp="1596643345643">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="3803" height="1447" key="GridCell.Tab.0.bottom/0.0.3840.2102@0.0.3840.2102" timestamp="1597158693575" />
+    <state width="3803" height="1447" key="GridCell.Tab.0.center" timestamp="1597158693574">
+      <screen x="0" y="0" width="3840" height="2102" />
     </state>
     <state width="2539" height="266" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1596643345643" />
-    <state width="2539" height="266" key="GridCell.Tab.0.left" timestamp="1596643345643">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="3803" height="1447" key="GridCell.Tab.0.center/0.0.3840.2102@0.0.3840.2102" timestamp="1597158693574" />
+    <state width="3803" height="1447" key="GridCell.Tab.0.left" timestamp="1597158693573">
+      <screen x="0" y="0" width="3840" height="2102" />
     </state>
     <state width="2539" height="266" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1596643345643" />
-    <state width="2539" height="266" key="GridCell.Tab.0.right" timestamp="1596643345644">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="3803" height="1447" key="GridCell.Tab.0.left/0.0.3840.2102@0.0.3840.2102" timestamp="1597158693573" />
+    <state width="3803" height="1447" key="GridCell.Tab.0.right" timestamp="1597158693574">
+      <screen x="0" y="0" width="3840" height="2102" />
     </state>
     <state width="2539" height="266" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1596643345644" />
+    <state width="3803" height="1447" key="GridCell.Tab.0.right/0.0.3840.2102@0.0.3840.2102" timestamp="1597158693574" />
     <state x="782" y="345" key="SettingsEditor" timestamp="1596630959473">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
