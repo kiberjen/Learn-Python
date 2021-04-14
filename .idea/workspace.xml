@@ -20,8 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99634546-4441-47b9-9706-d348fc5ac15a" name="Default Changelist" comment="добавил Упражнение 10-13 Зед А Шоу">
-      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 14/ex14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 15/ex15_sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 16/ex16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 17/ex17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Learn-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Learn-Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 1/ex1.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,30 +52,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.ex14">
-    <configuration name="ex10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Learn-Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 10" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 10/ex10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.ex15">
     <configuration name="ex11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Learn-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -156,20 +140,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Learn-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Зед А Шоу Легкий способ выучить Python3/Упражнение 15/ex15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.ex10" />
       <item itemvalue="Python.ex11" />
       <item itemvalue="Python.ex12" />
       <item itemvalue="Python.ex13" />
       <item itemvalue="Python.ex14" />
+      <item itemvalue="Python.ex15" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ex15" />
         <item itemvalue="Python.ex14" />
         <item itemvalue="Python.ex13" />
         <item itemvalue="Python.ex12" />
         <item itemvalue="Python.ex11" />
-        <item itemvalue="Python.ex10" />
       </list>
     </recent_temporary>
   </component>
@@ -230,49 +235,5 @@
     <MESSAGE value="добавил Упражнение 1 Зед А Шоу" />
     <MESSAGE value="добавил Упражнение 10-13 Зед А Шоу" />
     <option name="LAST_COMMIT_MESSAGE" value="добавил Упражнение 10-13 Зед А Шоу" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="735" y="355" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597219936422">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="735" y="355" width="1089" height="713" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597219936422" />
-    <state width="660" height="168" key="GridCell.Tab.0.bottom" timestamp="1597673061671">
-      <screen x="0" y="27" width="1366" height="715" />
-    </state>
-    <state width="2539" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1597220934547" />
-    <state width="660" height="168" key="GridCell.Tab.0.bottom/0.27.1366.715@0.27.1366.715" timestamp="1597673061671" />
-    <state width="660" height="168" key="GridCell.Tab.0.center" timestamp="1597673061671">
-      <screen x="0" y="27" width="1366" height="715" />
-    </state>
-    <state width="2539" height="266" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1597220934546" />
-    <state width="660" height="168" key="GridCell.Tab.0.center/0.27.1366.715@0.27.1366.715" timestamp="1597673061671" />
-    <state width="660" height="168" key="GridCell.Tab.0.left" timestamp="1597673061670">
-      <screen x="0" y="27" width="1366" height="715" />
-    </state>
-    <state width="2539" height="266" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1597220934546" />
-    <state width="660" height="168" key="GridCell.Tab.0.left/0.27.1366.715@0.27.1366.715" timestamp="1597673061670" />
-    <state width="660" height="168" key="GridCell.Tab.0.right" timestamp="1597673061671">
-      <screen x="0" y="27" width="1366" height="715" />
-    </state>
-    <state width="2539" height="266" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1597220934546" />
-    <state width="660" height="168" key="GridCell.Tab.0.right/0.27.1366.715@0.27.1366.715" timestamp="1597673061671" />
-    <state x="782" y="345" key="SettingsEditor" timestamp="1597220006523">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="782" y="345" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1597220006523" />
-    <state width="498" height="398" key="SwitcherDM" timestamp="1596627074352">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="498" height="398" key="SwitcherDM/0.0.2560.1400@0.0.2560.1400" timestamp="1596627074352" />
-    <state x="466" y="214" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1597669295190">
-      <screen x="0" y="27" width="1366" height="715" />
-    </state>
-    <state x="873" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596631087259" />
-    <state x="466" y="214" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1366.715@0.27.1366.715" timestamp="1597669295190" />
-    <state x="586" y="341" width="420" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597669377020">
-      <screen x="0" y="27" width="1366" height="715" />
-    </state>
-    <state x="1098" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1596627275672" />
-    <state x="586" y="341" width="420" height="172" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.715@0.27.1366.715" timestamp="1597669377020" />
   </component>
 </project>
